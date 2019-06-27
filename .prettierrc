@@ -1,5 +1,12 @@
 {
-  "trailingComma": "es5",
-  "singleQuote": true,
-  "semi": true
+    "arrowParens": "avoid",
+    "jsxBracketSameLine": true,
+    "tabWidth": 2,
+    "bracketSpacing": false,
+    "semi": true,
+    "trailingComma": "none",
+    "singleQuote": true,
+    "useTabs": false,
+    "proseWrap": "always",
+    "parser": "babel-flow"
 }
